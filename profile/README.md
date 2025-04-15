@@ -65,6 +65,6 @@ For inquiries, collaborations, or support, you can reach out to us at:
 
 ---
 
-## Crafted with 💻, ☕, and a bit of ₿itcoin, by [Samrat Talukdar](https://github.com/ogsamrat)  
+## Crafted with 💻, ☕, and a bit of ₿itcoin, by [Samrat](https://github.com/ogsamrat)<3
 > _LedgerMall isn't just a store — it's your step into a decentralized future._  
 > Buy, sell, and grow securely with crypto at your fingertips. 🛒💸🛡️
